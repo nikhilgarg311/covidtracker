@@ -23,4 +23,4 @@ End to End covid-19 prediction web application. This app gives prediction of the
   * python app.py
 
 ## Contribution
- Prediction Model designed by Deepansha Goyal
+ Prediction Model designed by Nikhil Garg
